@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: blue;
+  font-style: 200%;
+}
+p {
+  color: red;
+  font-style: 120%;
+  border: 1px solid grey;
+  padding: 10px;
+}
+#element1 {
+  color: blue;
+}

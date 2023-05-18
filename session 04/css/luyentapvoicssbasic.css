@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  background-color: #000;
+  color: #fff;
+  margin: 0 auto;
+  text-align: center;
+}
+p {
+  font-style: 18px;
+  line-height: 1.5;
+  margin: 20px 0;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+footer {
+  text-align: center;
+  margin-top: 17px;
+  font-style: 20px;
+}
